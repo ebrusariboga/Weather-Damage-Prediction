@@ -1,0 +1,1001 @@
+id,Event,Windspeed,IsPropertyDamage
+0,Hail,42.16,1
+1,Thunderstorm Wind,32.4,1
+2,Hail,59.48,1
+3,Hail,6.92,1
+4,Hail,0.975,0
+5,Thunderstorm Wind,18.4,1
+6,Thunderstorm Wind,19.28,1
+7,Thunderstorm Wind,7.68,1
+8,Heavy Rain,3.75,0
+9,Lightning,18.6,1
+10,Hail,4.25,0
+11,Hail,0.675,0
+12,Thunderstorm Wind,0.525,0
+13,Thunderstorm Wind,1.6,0
+14,Thunderstorm Wind,0.175,0
+15,Thunderstorm Wind,3.325,0
+16,Thunderstorm Wind,1.45,0
+17,Thunderstorm Wind,4.675,0
+18,Hail,0.425,0
+19,Hail,3.775,0
+20,Hail,1.1,0
+21,Hail,0.05,0
+22,Thunderstorm Wind,4.625,0
+23,Hail,0.68,1
+24,Hail,4.525,0
+25,Hail,2.675,0
+26,Thunderstorm Wind,35.92,1
+27,Thunderstorm Wind,12.0,1
+28,Thunderstorm Wind,10.72,1
+29,Thunderstorm Wind,1.4512,1
+30,Hail,1.125,0
+31,Hail,1.775,0
+32,Hail,2.25,0
+33,Thunderstorm Wind,2.68,1
+34,Lightning,7.465599999999999,1
+35,Marine Thunderstorm Wind,0.0,0
+36,Thunderstorm Wind,1.56,1
+37,Hail,18.84,1
+38,Hail,6.16,1
+39,Hail,33.6,1
+40,Hail,5.459199999999999,1
+41,Hail,17.72,1
+42,Hail,3.84,1
+43,Thunderstorm Wind,11.0,1
+44,Hail,1.76,1
+45,Thunderstorm Wind,5.4,1
+46,Thunderstorm Wind,48.64,1
+47,Thunderstorm Wind,9.96,1
+48,Thunderstorm Wind,10.04,1
+49,Hail,9.08,1
+50,Hail,7.88,1
+51,Hail,1.52,1
+52,Thunderstorm Wind,1.56,1
+53,Hail,1.625,0
+54,Hail,1.55,0
+55,Hail,0.625,0
+56,Hail,3.6,0
+57,Hail,3.25,0
+58,Hail,3.24,1
+59,Hail,2.625,0
+60,Thunderstorm Wind,4.9,0
+61,Hail,1.5,0
+62,Thunderstorm Wind,2.625,0
+63,Hail,3.875,0
+64,Hail,2.95,0
+65,Hail,3.475,0
+66,Funnel Cloud,4.475,0
+67,Funnel Cloud,0.2,0
+68,Thunderstorm Wind,23.12,1
+69,Thunderstorm Wind,4.0,1
+70,Thunderstorm Wind,12.44,1
+71,Marine Thunderstorm Wind,4.0,0
+72,Marine Thunderstorm Wind,1.575,0
+73,Marine Thunderstorm Wind,1.375,0
+74,Marine Thunderstorm Wind,4.7,0
+75,Marine Thunderstorm Wind,3.325,0
+76,Hail,4.025,0
+77,Hail,3.425,0
+78,Hail,0.775,0
+79,Hail,0.3,0
+80,Hail,1.775,0
+81,Hail,1.45,0
+82,Hail,1.6,0
+83,Hail,0.375,0
+84,Hail,4.5,0
+85,Hail,3.875,0
+86,Hail,1.075,0
+87,Hail,2.2,0
+88,Hail,4.05,0
+89,Hail,4.1,0
+90,Hail,3.325,0
+91,Hail,0.825,0
+92,Thunderstorm Wind,2.1,0
+93,Hail,3.95,0
+94,Thunderstorm Wind,8.44,1
+95,Hail,0.3,0
+96,Hail,2.575,0
+97,Hail,1.875,0
+98,Hail,4.675,0
+99,Hail,1.55,0
+100,Hail,2.325,0
+101,Hail,2.15,0
+102,Hail,3.65,0
+103,Hail,4.875,0
+104,Hail,0.85,0
+105,Hail,1.725,0
+106,Hail,2.8,0
+107,Hail,4.875,0
+108,Hail,0.375,0
+109,Hail,0.075,0
+110,Hail,2.675,0
+111,Hail,1.775,0
+112,Hail,2.925,0
+113,Hail,3.15,0
+114,Hail,2.825,0
+115,Hail,4.7,0
+116,Hail,0.075,0
+117,Hail,0.075,0
+118,Hail,2.125,0
+119,Hail,2.525,0
+120,Hail,1.875,0
+121,Hail,1.725,0
+122,Hail,1.35,0
+123,Hail,1.225,0
+124,Hail,0.075,0
+125,Hail,1.475,0
+126,Hail,2.8,0
+127,Hail,3.225,0
+128,Hail,4.8,0
+129,Hail,3.8928,1
+130,Hail,1.95,0
+131,Hail,4.35,0
+132,Hail,2.0,0
+133,Hail,2.35,0
+134,Hail,0.775,0
+135,Hail,0.425,0
+136,Hail,2.425,0
+137,Hail,4.55,0
+138,Hail,2.4,0
+139,Hail,2.475,0
+140,Hail,3.425,0
+141,Hail,2.125,0
+142,Hail,0.55,0
+143,Hail,0.775,0
+144,Hail,1.775,0
+145,Thunderstorm Wind,3.9232,1
+146,Thunderstorm Wind,8.9656,1
+147,Thunderstorm Wind,3.8,0
+148,Thunderstorm Wind,0.975,0
+149,Thunderstorm Wind,19.44,1
+150,Thunderstorm Wind,3.28,1
+151,Thunderstorm Wind,43.04,1
+152,Thunderstorm Wind,3.34,1
+153,Thunderstorm Wind,4.2,0
+154,Thunderstorm Wind,4.45,0
+155,Thunderstorm Wind,0.825,0
+156,Thunderstorm Wind,4.25,0
+157,Thunderstorm Wind,0.3,0
+158,Thunderstorm Wind,2.7880000000000003,1
+159,Thunderstorm Wind,4.05,0
+160,Thunderstorm Wind,3.516,1
+161,Thunderstorm Wind,2.8,0
+162,Thunderstorm Wind,2.1,0
+163,Thunderstorm Wind,4.8,0
+164,Thunderstorm Wind,0.75,0
+165,Thunderstorm Wind,2.136,1
+166,Thunderstorm Wind,2.375,0
+167,Thunderstorm Wind,2.7,0
+168,Thunderstorm Wind,0.825,0
+169,Thunderstorm Wind,3.15,0
+170,Thunderstorm Wind,3.325,0
+171,Thunderstorm Wind,0.95,0
+172,Thunderstorm Wind,2.625,0
+173,Thunderstorm Wind,1.35,0
+174,Hail,2.65,0
+175,Hail,1.625,0
+176,Hail,3.475,0
+177,Flood,0.0,0
+178,Hail,1.275,0
+179,Hail,2.5,0
+180,Hail,3.5,0
+181,Hail,1.225,0
+182,Hail,4.0,0
+183,Hail,2.875,0
+184,Thunderstorm Wind,3.175,0
+185,Thunderstorm Wind,2.05,0
+186,Thunderstorm Wind,2.25,0
+187,Hail,2.775,0
+188,Hail,3.45,0
+189,Hail,1.1,0
+190,Thunderstorm Wind,0.425,0
+191,Thunderstorm Wind,1.5,0
+192,Thunderstorm Wind,3.675,0
+193,Thunderstorm Wind,2.15,0
+194,Lightning,9.0,1
+195,Lightning,0.96,1
+196,Lightning,13.56,1
+197,Marine Thunderstorm Wind,4.4,0
+198,Marine Hail,0.1,0
+199,Marine Thunderstorm Wind,2.925,0
+200,Marine Thunderstorm Wind,0.75,0
+201,Marine Thunderstorm Wind,4.075,0
+202,Marine Thunderstorm Wind,0.85,0
+203,Lightning,2.2359999999999998,1
+204,Lightning,2.432,1
+205,Hail,1.975,0
+206,Marine Hail,2.05,0
+207,Marine Hail,3.675,0
+208,Marine Hail,3.925,0
+209,Hail,3.375,0
+210,Hail,3.025,0
+211,Hail,0.15,0
+212,Thunderstorm Wind,3.675,0
+213,Thunderstorm Wind,2.2,0
+214,Hail,2.875,0
+215,Thunderstorm Wind,3.84,1
+216,Thunderstorm Wind,4.24,1
+217,Hail,9.52,1
+218,Hail,7.68,1
+219,Tornado,46.36,1
+220,Tornado,3.3464,1
+221,Hail,3.575,0
+222,Thunderstorm Wind,3.075,0
+223,Thunderstorm Wind,21.4,1
+224,Thunderstorm Wind,1.504,1
+225,Thunderstorm Wind,2.7,0
+226,Thunderstorm Wind,2.35,0
+227,Thunderstorm Wind,4.85,0
+228,Thunderstorm Wind,1.825,0
+229,Thunderstorm Wind,1.504,1
+230,Thunderstorm Wind,3.375,0
+231,Thunderstorm Wind,0.075,0
+232,Thunderstorm Wind,1.3,0
+233,Thunderstorm Wind,3.375,0
+234,Thunderstorm Wind,1.125,0
+235,Thunderstorm Wind,0.6,0
+236,Thunderstorm Wind,3.55,0
+237,Thunderstorm Wind,0.825,0
+238,Hail,2.92,1
+239,Hail,63.28,1
+240,Hail,1.7519999999999998,1
+241,Marine Thunderstorm Wind,0.475,0
+242,Marine Thunderstorm Wind,4.875,0
+243,Thunderstorm Wind,2.425,0
+244,Marine Thunderstorm Wind,4.375,0
+245,Marine Thunderstorm Wind,2.525,0
+246,Marine Thunderstorm Wind,4.8,0
+247,Hail,32.84,1
+248,Hail,35.96,1
+249,Hail,45.32,1
+250,Hail,39.72,1
+251,Hail,10.9048,1
+252,Hail,2.9608,1
+253,Hail,3.6336,1
+254,Hail,5.499199999999999,1
+255,Hail,1.5248,1
+256,Hail,2.9288,1
+257,Hail,12.16,1
+258,Hail,14.32,1
+259,Hail,1.6224,1
+260,Hail,1.175,0
+261,Hail,1.9872,1
+262,Hail,1.25,0
+263,Hail,11.48,1
+264,Hail,55.16,1
+265,Hail,15.04,1
+266,Hail,5.84,1
+267,Hail,4.475,0
+268,Hail,54.24,1
+269,Hail,2.6392,1
+270,Hail,13.48,1
+271,Hail,12.8,1
+272,Hail,4.325,0
+273,Hail,37.64,1
+274,Hail,40.4,1
+275,Hail,2.075,0
+276,Hail,17.12,1
+277,Hail,2.85,0
+278,Hail,2.075,0
+279,Hail,53.84,1
+280,Hail,24.64,1
+281,Hail,38.2,1
+282,Hail,15.72,1
+283,Lightning,0.275,0
+284,Flood,4.325,0
+285,Flood,3.675,0
+286,Flood,2.1,0
+287,Thunderstorm Wind,12.04,1
+288,Thunderstorm Wind,52.68,1
+289,Thunderstorm Wind,36.04,1
+290,Thunderstorm Wind,50.6,1
+291,Thunderstorm Wind,26.72,1
+292,Thunderstorm Wind,41.64,1
+293,Thunderstorm Wind,5.0,1
+294,Thunderstorm Wind,47.8,1
+295,Thunderstorm Wind,14.48,1
+296,Thunderstorm Wind,38.76,1
+297,Thunderstorm Wind,11.28,1
+298,Thunderstorm Wind,22.52,1
+299,Thunderstorm Wind,13.64,1
+300,Thunderstorm Wind,23.52,1
+301,Flood,3.15,0
+302,Flood,3.575,0
+303,Flood,0.575,0
+304,Flood,2.875,0
+305,Flood,2.625,0
+306,Flood,0.675,0
+307,Flood,4.45,0
+308,Hail,2.95,0
+309,Hail,3.8,0
+310,Thunderstorm Wind,3.425,0
+311,Hail,5.0,0
+312,Hail,3.6,0
+313,Hail,1.5,0
+314,Hail,3.925,0
+315,Hail,3.85,0
+316,Thunderstorm Wind,1.05,0
+317,Heavy Rain,0.75,0
+318,Flood,3.875,0
+319,Flood,4.55,0
+320,Flood,4.4,0
+321,Heavy Rain,0.05,0
+322,Flood,1.2,0
+323,Heavy Rain,1.925,0
+324,Heavy Rain,2.375,0
+325,Flood,3.825,0
+326,Heavy Rain,4.225,0
+327,Heavy Rain,3.225,0
+328,Flood,1.0,0
+329,Flood,2.525,0
+330,Flood,2.2,0
+331,Flood,1.65,0
+332,Hail,3.5,0
+333,Hail,2.925,0
+334,Flood,2.85,0
+335,Flood,3.8,0
+336,Flood,4.225,0
+337,Flood,3.925,0
+338,Tornado,5.2384,1
+339,Tornado,1.32,1
+340,Thunderstorm Wind,1.3,0
+341,Thunderstorm Wind,15.04,1
+342,Funnel Cloud,2.8,0
+343,Thunderstorm Wind,5.12,1
+344,Thunderstorm Wind,10.8,1
+345,Tornado,11.36,1
+346,Thunderstorm Wind,2.96,1
+347,Flood,1.2,0
+348,Thunderstorm Wind,2.44,1
+349,Hail,3.75,0
+350,Hail,1.075,0
+351,Hail,4.925,0
+352,Thunderstorm Wind,26.0,1
+353,Thunderstorm Wind,23.72,1
+354,Thunderstorm Wind,4.0,1
+355,Thunderstorm Wind,2.025,0
+356,Thunderstorm Wind,1.16,1
+357,Thunderstorm Wind,7.44,1
+358,Marine Thunderstorm Wind,0.6,1
+359,Hail,0.5,0
+360,Thunderstorm Wind,7.32,1
+361,Thunderstorm Wind,10.32,1
+362,Hail,2.925,0
+363,Marine Thunderstorm Wind,2.7,0
+364,Thunderstorm Wind,37.0,1
+365,Thunderstorm Wind,36.28,1
+366,Thunderstorm Wind,3.32,1
+367,Hail,3.32,1
+368,Hail,0.75,0
+369,Funnel Cloud,1.85,0
+370,Thunderstorm Wind,5.32,1
+371,Thunderstorm Wind,4.28,1
+372,Hail,1.325,0
+373,Hail,3.1,0
+374,Funnel Cloud,4.825,0
+375,Lightning,17.44,1
+376,Funnel Cloud,1.3,0
+377,Marine Thunderstorm Wind,1.175,0
+378,Marine Thunderstorm Wind,0.15,0
+379,Thunderstorm Wind,2.68,1
+380,Thunderstorm Wind,1.0,1
+381,Marine Thunderstorm Wind,2.3,0
+382,Marine Thunderstorm Wind,4.65,0
+383,Marine Thunderstorm Wind,4.4,0
+384,Marine Thunderstorm Wind,3.45,0
+385,Marine Thunderstorm Wind,2.875,0
+386,Thunderstorm Wind,6.8,1
+387,Tornado,1.6008000000000002,1
+388,Tornado,11.72,1
+389,Tornado,12.64,1
+390,Lightning,2.24,1
+391,Lightning,5.6,1
+392,Tornado,0.05,0
+393,Thunderstorm Wind,2.575,0
+394,Thunderstorm Wind,1.8,0
+395,Lightning,6.92,1
+396,Hail,3.775,0
+397,Thunderstorm Wind,2.64,1
+398,Thunderstorm Wind,2.125,0
+399,Thunderstorm Wind,4.45,0
+400,Thunderstorm Wind,13.24,1
+401,Hail,3.0,0
+402,Thunderstorm Wind,2.6,1
+403,Thunderstorm Wind,1.28,1
+404,Thunderstorm Wind,0.6,1
+405,Thunderstorm Wind,0.56,1
+406,Hail,4.225,0
+407,Hail,4.075,0
+408,Hail,3.025,0
+409,Lightning,37.96,1
+410,Lightning,37.32,1
+411,Hail,1.775,0
+412,Hail,3.075,0
+413,Hail,0.425,0
+414,Flood,4.3,0
+415,Flood,4.65,0
+416,Flood,2.05,0
+417,Marine Thunderstorm Wind,2.025,0
+418,Flood,1.8,0
+419,Flood,0.85,0
+420,Marine Strong Wind,2.7,0
+421,Flood,0.2,0
+422,Heavy Rain,0.3,0
+423,Flood,0.7,0
+424,Thunderstorm Wind,0.875,0
+425,Heavy Rain,1.9,0
+426,Heavy Rain,3.8,0
+427,Heavy Rain,1.0,0
+428,Thunderstorm Wind,4.425,0
+429,Thunderstorm Wind,2.9,0
+430,Thunderstorm Wind,1.675,0
+431,Thunderstorm Wind,0.875,0
+432,Thunderstorm Wind,2.4,0
+433,Thunderstorm Wind,1.2,1
+434,Thunderstorm Wind,1.45,0
+435,Thunderstorm Wind,1.525,0
+436,Hail,0.2,0
+437,Heavy Rain,3.55,0
+438,Flood,0.975,0
+439,Flood,2.375,0
+440,Hail,1.175,0
+441,Hail,0.575,0
+442,Marine Thunderstorm Wind,3.9,0
+443,Thunderstorm Wind,17.92,1
+444,Marine Thunderstorm Wind,1.175,0
+445,Thunderstorm Wind,28.44,1
+446,Thunderstorm Wind,1.975,0
+447,Marine Thunderstorm Wind,0.525,0
+448,Marine Thunderstorm Wind,2.275,0
+449,Marine Thunderstorm Wind,3.7,0
+450,Marine Thunderstorm Wind,0.925,0
+451,Marine Thunderstorm Wind,2.375,0
+452,Marine Thunderstorm Wind,2.275,0
+453,Marine Thunderstorm Wind,0.2,0
+454,Marine Thunderstorm Wind,1.875,0
+455,Marine Thunderstorm Wind,3.475,0
+456,Thunderstorm Wind,3.0616000000000003,1
+457,Thunderstorm Wind,7.08,1
+458,Marine Thunderstorm Wind,1.35,0
+459,Marine Thunderstorm Wind,3.175,0
+460,Marine Thunderstorm Wind,0.625,0
+461,Marine Thunderstorm Wind,2.525,0
+462,Marine Thunderstorm Wind,1.75,0
+463,Marine Thunderstorm Wind,0.2,0
+464,Marine Thunderstorm Wind,0.575,0
+465,Marine Thunderstorm Wind,3.85,0
+466,Marine Thunderstorm Wind,3.5,0
+467,Thunderstorm Wind,16.12,1
+468,Thunderstorm Wind,5.32,1
+469,Thunderstorm Wind,8.96,1
+470,Marine Thunderstorm Wind,4.825,0
+471,Thunderstorm Wind,34.36,1
+472,Tornado,4.375,0
+473,Funnel Cloud,0.4,0
+474,Thunderstorm Wind,0.25,0
+475,Funnel Cloud,3.55,0
+476,Thunderstorm Wind,9.36,1
+477,Thunderstorm Wind,65.48,1
+478,Thunderstorm Wind,2.625,0
+479,Hail,0.2,0
+480,Hail,0.7,0
+481,Hail,0.8,0
+482,Thunderstorm Wind,3.8,0
+483,Thunderstorm Wind,1.35,0
+484,Hail,3.675,0
+485,Tornado,1.8,0
+486,Tornado,8.8912,1
+487,Tornado,5.6696,1
+488,Hail,2.675,0
+489,Hail,4.35,0
+490,Hail,3.5,0
+491,Hail,4.1,0
+492,Hail,1.3,0
+493,Hail,4.275,0
+494,Hail,1.325,0
+495,Hail,2.0,0
+496,Hail,0.775,0
+497,Hail,2.575,0
+498,Hail,4.925,0
+499,Hail,3.65,0
+500,Hail,3.35,0
+501,Hail,1.15,0
+502,Hail,0.275,0
+503,Hail,4.15,0
+504,Hail,1.45,0
+505,Hail,3.675,0
+506,Hail,3.075,0
+507,Hail,3.125,0
+508,Hail,2.65,0
+509,Hail,2.1,0
+510,Hail,1.625,0
+511,Thunderstorm Wind,1.25,0
+512,Thunderstorm Wind,31.12,1
+513,Thunderstorm Wind,2.8,1
+514,Hail,3.1,0
+515,Thunderstorm Wind,3.4,0
+516,Hail,4.85,0
+517,Hail,3.075,0
+518,Thunderstorm Wind,4.65,0
+519,Thunderstorm Wind,3.675,0
+520,Thunderstorm Wind,4.6,0
+521,Hail,0.175,0
+522,Hail,4.5,0
+523,Hail,0.575,0
+524,Thunderstorm Wind,4.1,0
+525,Thunderstorm Wind,1.55,0
+526,Thunderstorm Wind,2.225,0
+527,Marine Thunderstorm Wind,2.725,0
+528,Thunderstorm Wind,2.9,0
+529,Thunderstorm Wind,4.5,0
+530,Thunderstorm Wind,0.575,0
+531,Thunderstorm Wind,4.85,0
+532,Hail,2.175,0
+533,Thunderstorm Wind,1.55,0
+534,Hail,0.55,0
+535,Hail,3.375,0
+536,Thunderstorm Wind,1.1,0
+537,Funnel Cloud,2.025,0
+538,Hail,3.9,0
+539,Hail,4.175,0
+540,Hail,4.4,0
+541,Thunderstorm Wind,2.025,0
+542,Hail,4.65,0
+543,Marine Thunderstorm Wind,1.025,0
+544,Marine Thunderstorm Wind,4.375,0
+545,Thunderstorm Wind,3.7,0
+546,Hail,1.25,0
+547,Hail,3.7,0
+548,Hail,0.325,0
+549,Hail,4.325,0
+550,Hail,2.325,0
+551,Hail,1.1,0
+552,Hail,0.45,0
+553,Thunderstorm Wind,4.05,0
+554,Thunderstorm Wind,0.325,0
+555,Thunderstorm Wind,1.05,0
+556,Heavy Rain,2.9960000000000004,1
+557,Lightning,69.36,1
+558,Lightning,39.04,1
+559,Thunderstorm Wind,12.68,1
+560,Hail,3.0,0
+561,Thunderstorm Wind,8.0,1
+562,Flood,35.3104,1
+563,Waterspout,3.475,0
+564,Thunderstorm Wind,0.725,0
+565,Thunderstorm Wind,3.475,0
+566,Thunderstorm Wind,1.125,0
+567,Hail,2.3,0
+568,Hail,2.8,0
+569,Hail,1.225,0
+570,Hail,4.85,0
+571,Hail,2.25,0
+572,Hail,1.25,0
+573,Heavy Rain,4.675,0
+574,Heavy Rain,1.15,0
+575,Heavy Rain,4.85,0
+576,Heavy Rain,4.075,0
+577,Heavy Rain,1.125,0
+578,Funnel Cloud,2.575,0
+579,Heavy Rain,3.175,0
+580,Heavy Rain,4.375,0
+581,Heavy Rain,2.55,0
+582,Heavy Rain,1.25,0
+583,Marine Thunderstorm Wind,2.275,0
+584,Heavy Rain,4.525,0
+585,Heavy Rain,2.175,0
+586,Heavy Rain,5.0,0
+587,Heavy Rain,2.575,0
+588,Heavy Rain,1.55,0
+589,Heavy Rain,4.925,0
+590,Tornado,14.895199999999999,1
+591,Tornado,2.0856,1
+592,Thunderstorm Wind,9.1744,1
+593,Heavy Rain,0.35,0
+594,Heavy Rain,3.95,0
+595,Heavy Rain,3.6,0
+596,Heavy Rain,3.475,0
+597,Heavy Rain,0.575,0
+598,Heavy Rain,4.65,0
+599,Thunderstorm Wind,9.04,1
+600,Thunderstorm Wind,3.45,0
+601,Tornado,3.225,0
+602,Thunderstorm Wind,8.08,1
+603,Hail,2.225,0
+604,Hail,1.55,0
+605,Hail,0.95,0
+606,Hail,3.7,0
+607,Hail,4.75,0
+608,Hail,3.85,0
+609,Heavy Rain,2.3,0
+610,Hail,4.1,0
+611,Heavy Rain,4.2,0
+612,Heavy Rain,3.25,0
+613,Heavy Rain,4.35,0
+614,Hail,1.15,0
+615,Thunderstorm Wind,1.12,1
+616,Thunderstorm Wind,41.08,1
+617,Thunderstorm Wind,0.075,0
+618,Thunderstorm Wind,6.0,1
+619,Thunderstorm Wind,1.45,0
+620,Thunderstorm Wind,38.12,1
+621,Lightning,2.3952,1
+622,Hail,0.85,0
+623,Thunderstorm Wind,1.8,1
+624,Thunderstorm Wind,7.0,1
+625,Thunderstorm Wind,2.8,0
+626,Thunderstorm Wind,7.52,1
+627,Hail,1.5,0
+628,Thunderstorm Wind,2.55,0
+629,Flood,0.475,0
+630,Thunderstorm Wind,1.275,0
+631,Thunderstorm Wind,3.725,0
+632,Thunderstorm Wind,0.525,0
+633,Hail,1.025,0
+634,Hail,2.55,0
+635,Thunderstorm Wind,0.175,0
+636,Thunderstorm Wind,3.55,0
+637,Thunderstorm Wind,1.5863999999999998,1
+638,Thunderstorm Wind,4.5,0
+639,Thunderstorm Wind,4.7,0
+640,Thunderstorm Wind,16.8,1
+641,Thunderstorm Wind,2.225,0
+642,Thunderstorm Wind,1.125,0
+643,Thunderstorm Wind,1.175,0
+644,Thunderstorm Wind,4.1,0
+645,Thunderstorm Wind,0.825,0
+646,Thunderstorm Wind,2.15,0
+647,Thunderstorm Wind,3.125,0
+648,Thunderstorm Wind,16.64,1
+649,Thunderstorm Wind,0.25,0
+650,Thunderstorm Wind,3.525,0
+651,Thunderstorm Wind,37.84,1
+652,Thunderstorm Wind,0.575,0
+653,Thunderstorm Wind,0.525,0
+654,Thunderstorm Wind,0.64,1
+655,Thunderstorm Wind,2.76,1
+656,Thunderstorm Wind,2.64,1
+657,Tornado,2.7,0
+658,Thunderstorm Wind,3.5936000000000003,1
+659,Thunderstorm Wind,1.825,0
+660,Thunderstorm Wind,4.575,0
+661,Thunderstorm Wind,3.48,1
+662,Flood,27.16,1
+663,Flood,4.85,0
+664,Flood,2.125,0
+665,Waterspout,4.475,0
+666,Waterspout,3.75,0
+667,Waterspout,3.575,0
+668,Flood,0.1,0
+669,Flood,4.4,0
+670,Flood,2.075,0
+671,Waterspout,4.95,0
+672,Flood,1.4,0
+673,Flood,0.7,0
+674,Flood,1.25,0
+675,Flood,3.35,0
+676,Flood,4.15,0
+677,Waterspout,4.825,0
+678,Flood,3.825,0
+679,Flood,1.8,0
+680,Flood,4.425,0
+681,Flood,46.88,1
+682,Hail,4.45,0
+683,Thunderstorm Wind,13.68,1
+684,Thunderstorm Wind,2.76,1
+685,Waterspout,4.75,0
+686,Thunderstorm Wind,2.525,0
+687,Flood,10.68,1
+688,Tornado,39.96,1
+689,Thunderstorm Wind,4.84,1
+690,Flood,11.24,1
+691,Flood,28.52,1
+692,Flood,7.48,1
+693,Flood,19.64,1
+694,Flood,11.84,1
+695,Thunderstorm Wind,0.55,0
+696,Hail,1.4,0
+697,Tornado,4.1,0
+698,Tornado,1.32,1
+699,Thunderstorm Wind,3.1744,1
+700,Thunderstorm Wind,3.6,0
+701,Thunderstorm Wind,17.84,1
+702,Thunderstorm Wind,2.2,0
+703,Thunderstorm Wind,15.48,1
+704,Tornado,3.175,0
+705,Thunderstorm Wind,4.8,0
+706,Tornado,0.2,0
+707,Thunderstorm Wind,4.7,0
+708,Tornado,2.825,0
+709,Tornado,1.675,0
+710,Thunderstorm Wind,3.3,0
+711,Thunderstorm Wind,1.625,0
+712,Thunderstorm Wind,2.0,0
+713,Thunderstorm Wind,1.5,0
+714,Thunderstorm Wind,8.8,1
+715,Thunderstorm Wind,2.88,1
+716,Thunderstorm Wind,17.88,1
+717,Hail,4.725,0
+718,Hail,4.225,0
+719,Hail,2.45,0
+720,Hail,2.35,0
+721,Hail,3.6,0
+722,Tornado,36.1784,1
+723,Thunderstorm Wind,9.9168,1
+724,Thunderstorm Wind,4.025,0
+725,Thunderstorm Wind,5.0,0
+726,Hail,2.175,0
+727,Thunderstorm Wind,0.675,0
+728,Hail,0.7,0
+729,Thunderstorm Wind,1.4848,1
+730,Thunderstorm Wind,1.96,1
+731,Thunderstorm Wind,4.425,0
+732,Thunderstorm Wind,9.8,1
+733,Thunderstorm Wind,4.08,1
+734,Thunderstorm Wind,1.32,1
+735,Thunderstorm Wind,2.28,1
+736,Thunderstorm Wind,30.2,1
+737,Hail,0.2,0
+738,Hail,3.175,0
+739,Funnel Cloud,1.3,0
+740,Thunderstorm Wind,12.8,1
+741,Thunderstorm Wind,2.52,1
+742,Thunderstorm Wind,0.6,1
+743,Thunderstorm Wind,7.68,1
+744,Hail,0.3,0
+745,Hail,2.25,0
+746,Marine Thunderstorm Wind,0.1,0
+747,Hail,4.55,0
+748,Thunderstorm Wind,5.9872000000000005,1
+749,Thunderstorm Wind,1.4,1
+750,Thunderstorm Wind,2.525,0
+751,Thunderstorm Wind,1.4872,1
+752,Marine Thunderstorm Wind,4.975,0
+753,Marine Thunderstorm Wind,2.025,0
+754,Marine Thunderstorm Wind,3.7,0
+755,Marine Thunderstorm Wind,4.0,0
+756,Marine Thunderstorm Wind,0.925,0
+757,Heavy Rain,0.3,0
+758,Marine Thunderstorm Wind,3.05,0
+759,Thunderstorm Wind,3.68,1
+760,Thunderstorm Wind,1.56,1
+761,Marine Hail,3.05,0
+762,Marine Thunderstorm Wind,3.35,0
+763,Hail,1.45,0
+764,Hail,2.025,0
+765,Hail,1.1,0
+766,Hail,2.35,0
+767,Hail,0.425,0
+768,Hail,3.7,0
+769,Hail,2.4,0
+770,Hail,2.0,0
+771,Hail,0.825,0
+772,Hail,3.075,0
+773,Hail,3.175,0
+774,Hail,3.575,0
+775,Hail,4.3,0
+776,Hail,4.85,0
+777,Hail,1.75,0
+778,Hail,2.75,0
+779,Hail,3.075,0
+780,Hail,0.925,0
+781,Thunderstorm Wind,0.55,0
+782,Flood,0.7,0
+783,Flood,0.3,0
+784,Hail,4.975,0
+785,Thunderstorm Wind,3.92,1
+786,Thunderstorm Wind,0.575,0
+787,Thunderstorm Wind,30.48,1
+788,Thunderstorm Wind,4.175,0
+789,Thunderstorm Wind,0.825,0
+790,Thunderstorm Wind,2.425,0
+791,Hail,2.65,0
+792,Hail,4.025,0
+793,Hail,0.725,0
+794,Tornado,16.2424,1
+795,Thunderstorm Wind,0.96,1
+796,Thunderstorm Wind,1.5088,1
+797,Thunderstorm Wind,5.2,1
+798,Thunderstorm Wind,14.56,1
+799,Thunderstorm Wind,11.88,1
+800,Thunderstorm Wind,39.16,1
+801,Thunderstorm Wind,12.12,1
+802,Hail,3.6,0
+803,Thunderstorm Wind,2.24,1
+804,Hail,67.9504,1
+805,Thunderstorm Wind,2.3,0
+806,Hail,6.24,1
+807,Hail,0.325,0
+808,Hail,1.65,0
+809,Hail,4.375,0
+810,Hail,0.7,0
+811,Hail,3.225,0
+812,Hail,1.575,0
+813,Hail,1.575,0
+814,Hail,1.225,0
+815,Hail,2.975,0
+816,Thunderstorm Wind,3.95,0
+817,Heavy Rain,4.9,0
+818,Heavy Rain,1.025,0
+819,Heavy Rain,4.95,0
+820,Heavy Rain,1.325,0
+821,Hail,3.075,0
+822,Hail,0.45,0
+823,Hail,0.425,0
+824,Hail,4.075,0
+825,Thunderstorm Wind,4.075,0
+826,Funnel Cloud,0.2,0
+827,Hail,3.175,0
+828,Hail,3.325,0
+829,Hail,0.05,0
+830,Flood,1.7296,1
+831,Hail,3.175,0
+832,Flood,9.2,1
+833,Lightning,3.9232,1
+834,Flood,9.6,1
+835,Flood,17.44,1
+836,Lightning,10.7408,1
+837,Flood,34.64,1
+838,Flood,13.72,1
+839,Flood,16.44,1
+840,Flood,3.84,1
+841,Flood,18.48,1
+842,Flood,10.88,1
+843,Lightning,11.12,1
+844,Hail,1.175,0
+845,Hail,3.575,0
+846,Hail,0.75,0
+847,Hail,2.3,0
+848,Hail,4.325,0
+849,Lightning,5.4192,1
+850,Tornado,41.6,1
+851,Hail,5.0,0
+852,Hail,2.6,0
+853,Hail,2.525,0
+854,Hail,3.175,0
+855,Hail,3.575,0
+856,Thunderstorm Wind,66.64,1
+857,Hail,3.85,0
+858,Hail,1.125,0
+859,Hail,1.96,1
+860,Hail,23.36,1
+861,Hail,1.9,0
+862,Tornado,4.825,0
+863,Hail,3.7,0
+864,Hail,4.05,0
+865,Hail,4.75,0
+866,Hail,3.0,0
+867,Hail,4.175,0
+868,Hail,4.075,0
+869,Hail,4.65,0
+870,Tornado,4.525,0
+871,Hail,2.775,0
+872,Hail,1.075,0
+873,Hail,2.425,0
+874,Hail,2.75,0
+875,Tornado,38.812,1
+876,Tornado,4.75,0
+877,Thunderstorm Wind,2.3144,1
+878,Thunderstorm Wind,30.6,1
+879,Tornado,2.2184,1
+880,Tornado,1.7168,1
+881,Hail,2.375,0
+882,Thunderstorm Wind,0.52,1
+883,Hail,3.025,0
+884,Hail,4.75,0
+885,Funnel Cloud,2.25,0
+886,Thunderstorm Wind,3.28,1
+887,Thunderstorm Wind,2.3136,1
+888,Thunderstorm Wind,16.52,1
+889,Marine Thunderstorm Wind,2.175,0
+890,Marine Thunderstorm Wind,2.35,0
+891,Marine Thunderstorm Wind,4.05,0
+892,Hail,2.5,0
+893,Hail,0.825,0
+894,Thunderstorm Wind,4.35,0
+895,Hail,4.575,0
+896,Flood,14.48,1
+897,Flood,31.6,1
+898,Flood,4.12,1
+899,Flood,10.24,1
+900,Flood,14.2,1
+901,Flood,27.88,1
+902,Flood,8.4,1
+903,Flood,10.72,1
+904,Flood,10.64,1
+905,Flood,14.88,1
+906,Flood,2.28,1
+907,Flood,1.55,0
+908,Flood,1.975,0
+909,Hail,0.1,0
+910,Hail,1.225,0
+911,Hail,0.175,0
+912,Hail,1.425,0
+913,Hail,1.325,0
+914,Hail,2.525,0
+915,Hail,2.65,0
+916,Heavy Rain,0.4,0
+917,Hail,7.36,1
+918,Thunderstorm Wind,12.0,1
+919,Hail,1.48,1
+920,Hail,9.6,1
+921,Hail,10.24,1
+922,Hail,1.6,0
+923,Thunderstorm Wind,1.275,0
+924,Hail,4.4,0
+925,Hail,0.4,0
+926,Hail,3.625,0
+927,Hail,4.825,0
+928,Hail,3.675,0
+929,Marine Thunderstorm Wind,2.825,0
+930,Marine Thunderstorm Wind,4.35,0
+931,Marine Thunderstorm Wind,3.025,0
+932,Hail,0.5,0
+933,Tornado,3.525,0
+934,Tornado,6.2,1
+935,Thunderstorm Wind,5.667999999999999,1
+936,Thunderstorm Wind,6.88,1
+937,Thunderstorm Wind,11.88,1
+938,Flood,4.76,1
+939,Flood,35.56,1
+940,Flood,3.6496,1
+941,Flood,55.12,1
+942,Marine Thunderstorm Wind,0.175,0
+943,Flood,38.2264,1
+944,Marine Thunderstorm Wind,1.2,0
+945,Tornado,4.825,0
+946,Tornado,3.975,0
+947,Tornado,3.1088,1
+948,Tornado,0.475,0
+949,Tornado,4.5808,1
+950,Tornado,3.475,0
+951,Tornado,8.84,1
+952,Tornado,1.425,0
+953,Thunderstorm Wind,8.8,1
+954,Thunderstorm Wind,13.4,1
+955,Thunderstorm Wind,3.275,0
+956,Tornado,9.4576,1
+957,Tornado,6.72,1
+958,Thunderstorm Wind,59.6,1
+959,Tornado,5.0,1
+960,Flood,4.72,1
+961,Flood,4.04,1
+962,Marine Thunderstorm Wind,1.35,0
+963,Marine Thunderstorm Wind,4.15,0
+964,Thunderstorm Wind,10.16,1
+965,Thunderstorm Wind,9.28,1
+966,Thunderstorm Wind,7.56,1
+967,Thunderstorm Wind,2.52,1
+968,Thunderstorm Wind,3.2,1
+969,Thunderstorm Wind,7.8,1
+970,Thunderstorm Wind,8.08,1
+971,Thunderstorm Wind,27.16,1
+972,Thunderstorm Wind,13.96,1
+973,Thunderstorm Wind,24.32,1
+974,Thunderstorm Wind,24.12,1
+975,Waterspout,3.375,0
+976,Marine Thunderstorm Wind,2.275,0
+977,Marine Thunderstorm Wind,1.9,0
+978,Hail,9.36,1
+979,Hail,61.48,1
+980,Hail,4.92,1
+981,Hail,24.08,1
+982,Hail,17.68,1
+983,Hail,14.0,1
+984,Hail,7.6,1
+985,Hail,6.4,1
+986,Hail,9.52,1
+987,Hail,27.64,1
+988,Hail,32.6,1
+989,Hail,7.36,1
+990,Hail,20.8,1
+991,Hail,35.12,1
+992,Hail,4.4,1
+993,Hail,13.44,1
+994,Hail,21.96,1
+995,Hail,17.64,1
+996,Hail,23.92,1
+997,Hail,7.88,1
+998,Hail,59.6,1
+999,Thunderstorm Wind,26.56,1
